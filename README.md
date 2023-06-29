@@ -54,6 +54,6 @@ python model_loading.py --target_pixel_value *target_pixel_value* --target_senso
 ------
 ### Author
 
-Argyrios Christodoulidis
-29 June 2023
+        Argyrios Christodoulidis Ph.D.,
+        29 June 2023
 
