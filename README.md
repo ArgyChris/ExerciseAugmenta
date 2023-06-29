@@ -51,3 +51,9 @@ python model_loading.py --target_pixel_value *target_pixel_value* --target_senso
     --target_pixel_value: Targeted average pixel value.
     --target_sensor_value: Targeted ambient light sensor illuminance value.
 
+------
+### Author
+
+Argyrios Christodoulidis
+29 June 2023
+
