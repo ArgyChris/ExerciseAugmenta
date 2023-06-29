@@ -6,7 +6,7 @@ This project is about analysing a .csv file from an experiment and training an M
 
 ### Prerequisites
     
-        Python 
+        Python 3.11.3
         Numpy
         Pandas
         Keras
